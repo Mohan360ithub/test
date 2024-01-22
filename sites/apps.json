@@ -1,0 +1,41 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.0.0-dev"
+    },
+    "ride": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "fefba9bc7aabde56e099e1be6a4aa568edb5f5c9",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "restaurants": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "cfcd6bac75e459657a50936394f1aba7ebe02d65",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    },
+    "blog_app": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "91944784faef389037930766b3f38e9a9a3b30a2",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    }
+}
